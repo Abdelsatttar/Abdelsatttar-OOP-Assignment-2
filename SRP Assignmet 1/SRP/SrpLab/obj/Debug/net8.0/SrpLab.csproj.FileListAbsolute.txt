@@ -1,0 +1,11 @@
+E:\🌟🌟simulation🌟🌟\Lab\Ass2OOP\SRP_Assignment_01\SRP\SrpLab\bin\Debug\net8.0\SrpLab.deps.json
+E:\🌟🌟simulation🌟🌟\Lab\Ass2OOP\SRP_Assignment_01\SRP\SrpLab\bin\Debug\net8.0\SrpLab.dll
+E:\🌟🌟simulation🌟🌟\Lab\Ass2OOP\SRP_Assignment_01\SRP\SrpLab\bin\Debug\net8.0\SrpLab.pdb
+E:\🌟🌟simulation🌟🌟\Lab\Ass2OOP\SRP_Assignment_01\SRP\SrpLab\obj\Debug\net8.0\SrpLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\🌟🌟simulation🌟🌟\Lab\Ass2OOP\SRP_Assignment_01\SRP\SrpLab\obj\Debug\net8.0\SrpLab.AssemblyInfoInputs.cache
+E:\🌟🌟simulation🌟🌟\Lab\Ass2OOP\SRP_Assignment_01\SRP\SrpLab\obj\Debug\net8.0\SrpLab.AssemblyInfo.cs
+E:\🌟🌟simulation🌟🌟\Lab\Ass2OOP\SRP_Assignment_01\SRP\SrpLab\obj\Debug\net8.0\SrpLab.csproj.CoreCompileInputs.cache
+E:\🌟🌟simulation🌟🌟\Lab\Ass2OOP\SRP_Assignment_01\SRP\SrpLab\obj\Debug\net8.0\SrpLab.dll
+E:\🌟🌟simulation🌟🌟\Lab\Ass2OOP\SRP_Assignment_01\SRP\SrpLab\obj\Debug\net8.0\refint\SrpLab.dll
+E:\🌟🌟simulation🌟🌟\Lab\Ass2OOP\SRP_Assignment_01\SRP\SrpLab\obj\Debug\net8.0\SrpLab.pdb
+E:\🌟🌟simulation🌟🌟\Lab\Ass2OOP\SRP_Assignment_01\SRP\SrpLab\obj\Debug\net8.0\ref\SrpLab.dll
